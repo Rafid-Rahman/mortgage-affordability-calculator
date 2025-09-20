@@ -30,8 +30,6 @@ This project is a command-line tool that models mortgage affordability in a prof
 - High Interest Rate (+1.5%): £2,844 / month  
 - Lower Deposit (–£10,000): £500,000 property value  
 
-A sample PDF report is generated like:
-
 ---
 
 ## How It Works
